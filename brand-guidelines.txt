@@ -1,0 +1,96 @@
+# Zypher Brand Guidelines
+
+## 1. Brand Identity Overview
+Modern, sleek, and premium. The interface supports a dual-theme system: a deep, futuristic Dark Theme with metallic accents, and a clean, professional Light Theme with soft greys and sharp typography.
+
+## 2. Color Palette
+
+### Dark Theme (Primary)
+The dark theme is the core identity, featuring deep blacks and greys with high-contrast accents.
+
+**Backgrounds**
+- **Main Background**: `#151515` (Deep Black)
+- **Secondary / Surface**: `#252525` (Dark Grey)
+- **Widget Background**: `rgba(44, 45, 47, 0.9)`
+- **Glassmorphism Effect**: `backdrop-filter: blur(2px)` to `blur(4px)`
+
+**Primary Accents**
+- **Primary Main**: `#EBF3FF` (Ice White/Blue)
+- **Primary Weak (50)**: `#E9F9FF`
+- **Primary Strong (100)**: `#D7F4FF`
+
+**Status Colors**
+- **Success (Green)**: `#4ED79D` (Regular), `#49B482` (Strong)
+- **Warning (Gold/Orange)**: `#FFE9C4` (Pale), `#FFCC74` (Vibrant), `#FFF5D0` (Gradient Start)
+- **Error (Red)**: `#FF6366`
+
+**Text Colors (Dark Theme)**
+- **Primary Text**: `#F7F9FD` (High Emphasis)
+- **Secondary Text**: `#E3E8FF` (Medium Emphasis)
+- **Muted Text**: `#B9BCCC` (Grey 400), `#E6E7F3` (Grey 100)
+
+**Gradients (Dark Theme)**
+- **Gold/Metallic Accent**: `linear-gradient(128.62deg, #FFF5D0 11.02%, #7A766B 93.11%)`
+- **Card Gradient**: `linear-gradient(104.01deg, #1F2021 2.88%, #3A3B40 99.58%)`
+- **Surface Gradient**: `linear-gradient(129.49deg, rgba(42, 42, 43, 0.9) 3.6%, rgba(60, 60, 60, 0.9) 100%)`
+
+---
+
+### Light Theme
+Designed for clarity and trust, primarily used in Authentication and Account Management flows.
+
+**Backgrounds**
+- **Main Background**: `#EEEEEE` (Light Grey)
+- **Card/Container Surface**: `#FCFEFF` (Off-White)
+- **Input Field Background**: `rgba(255, 255, 255, 0.8)` or `#FFFFFF`
+
+**Text Colors (Light Theme)**
+- **Primary Text (Headings/Labels)**: `#323232` (Soft Black)
+- **Secondary Text (Inactive/Placeholder)**: `#8C8C8C` (Mid Grey) | `#161B33` (Deep Blue @ 50% opacity)
+- **Links / Action Text**: `#3B4A90` (Corporate Blue)
+
+**Borders & Dividers**
+- **Vibrant Border**: `#DAE1EA` (Light Blue-Grey)
+
+**Buttons (Light Theme)**
+- **Primary Button Background**: `linear-gradient(11.41deg, #252525 5.95%, #707070 102.98%)` (Dark Gradient)
+- **Primary Button Text**: `#FFFFFF`
+- **Secondary/Toggle Button Background**: `#B1B1B1` (Inactive Grey)
+
+**Logo Gradient (Light Theme)**
+- `linear-gradient(88.39deg, #343431 -33.16%, #585952 39.59%, #74716E 100.88%)`
+
+---
+
+## 3. Typography
+**Primary Font**: `DM Sans`
+- **Weights**: 400 (Regular), 500 (Medium), 600 (Semi-bold)
+- **Usage**: Main UI text, headers, form labels, buttons.
+
+**Secondary Fonts**
+- **SF Pro**: Financial data, numbers, currency.
+- **Urbanist**: Hero text, landing page headlines (e.g., "Your Wallet, Reinvented").
+- **Roboto**: Occasional body text.
+
+**Type Scale (Reference)**
+- **Hero/Display**: 40px (Urbanist, Semi-bold)
+- **Page Titles**: 24px (DM Sans, Semi-bold)
+- **Subtitles**: 16px (DM Sans, Medium)
+- **Body/Inputs**: 14px (DM Sans, Regular)
+- **Captions/Labels**: 12px (DM Sans, Medium/Regular)
+
+## 4. UI Elements & Effects
+
+**Border Radius**
+- **Cards/Widgets**: `16px` or `20px` (Login Container)
+- **Buttons/Input Fields**: `4px` - `5px`
+- **Pills/Tags**: `100px`
+
+**Shadows & Blurs**
+- **Glass Effect**: `backdrop-filter: blur(2px)` to `blur(4px)` (Used on dark cards).
+- **Glows**: Soft gradients behind vectors.
+
+**Input Fields (Light Theme Specifics)**
+- **Height**: 40px
+- **Border**: 1px solid `#DAE1EA`
+- **Background**: White/Transparent White (`rgba(255, 255, 255, 0.8)`).

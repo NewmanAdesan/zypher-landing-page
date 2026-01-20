@@ -1,0 +1,375 @@
+Color Palette:
+Primary Colors:
+
+Background: #1a1a1a to #2a2a2a (dark charcoal gradients)
+Surface cards: #2d2d2d to #353535 (elevated surfaces)
+Text primary: #ffffff (white)
+Text secondary: #a0a0a0 to #b8b8b8 (light gray)
+
+Accent Colors:
+
+Primary accent: #5dade2 to #6bb6e8 (refined teal/cyan - for CTAs and interactive elements)
+Success/positive: #4caf50 to #5cb85c (muted green for confirmations)
+Subtle highlights: #7dd3c0 (soft teal for hover states)
+
+Avoid:
+
+Harsh neon colors
+Pure black backgrounds (#000000)
+Electric purples or aggressive gradients
+Overly vibrant accent colors
+
+
+Typography:
+Font Family: Inter, SF Pro Display, or similar professional sans-serif
+Hierarchy:
+
+H1 (Hero headline): 56-64px, weight 700 (bold)
+H2 (Section titles): 40-48px, weight 600 (semibold)
+H3 (Feature titles): 24-28px, weight 600
+Body text: 16-18px, weight 400 (regular)
+Small text/captions: 14px, weight 400
+Button text: 16px, weight 500 (medium)
+
+Line height: 1.5 for body, 1.2 for headings
+
+Layout & Structure:
+Hero Section (Above the Fold):
+Layout:
+
+Full-width section with subtle gradient background (dark charcoal to slightly lighter)
+Two-column layout: 50% content (left) / 50% visual (right)
+Generous whitespace and breathing room
+
+Content (Left Column):
+
+ZYPHER logo (top left, standard placement)
+Main headline: "Banking Without the Bank. Your Crypto. Your Card. Your Privacy."
+
+Large, bold, confident typography
+Line breaks for rhythm and emphasis
+
+
+Subheadline: "The world's most private, secure, and anonymous crypto card platform. Spend anywhere — no KYC, no ID, no tracking."
+
+Slightly smaller, lighter weight
+Max width 560px for readability
+
+
+Primary CTA button: "Get Started Instantly – No Verification Required"
+
+Prominent teal button (#5dade2)
+Rounded corners (8-12px radius)
+Subtle shadow for depth
+Hover: slight scale and brightness increase
+
+
+Trust indicators (horizontal row below CTA):
+
+"160+ Countries" | "150M+ Merchants" | "Zero KYC"
+Small icons + text
+Separated by vertical dividers
+
+
+
+Visual (Right Column):
+
+High-quality 3D render of ZYPHER cards (matching dashboard design)
+Cards slightly tilted/stacked with depth
+Subtle floating animation or parallax on scroll
+Show both Mastercard and Visa variants
+Topographic pattern visible on cards (as in dashboard)
+Soft glow/shadow beneath cards
+
+Background:
+
+Subtle gradient mesh or grain texture
+Very subtle geometric pattern (hexagons or grid) at 5-10% opacity
+NO matrix code, NO falling particles, NO aggressive animations
+
+
+Why ZYPHER Section:
+Layout:
+
+Full-width section with slightly lighter background (#242424)
+Section title: "Why ZYPHER.CARDS?" (centered, H2)
+Three-column grid with equal spacing
+
+Feature Cards:
+
+No KYC. No Limits. No Surveillance.
+
+Icon: Minimalist shield outline
+Description: "Use crypto like cash – without identity checks or background verification."
+
+
+Global Access. No Nationality Restrictions.
+
+Icon: Simple globe outline
+Description: "Available in 160+ countries, accepted at 150M+ merchants and ATMs worldwide."
+
+
+Built for Privacy-First Users
+
+Icon: Lock or eye-off symbol
+Description: "Total privacy, encrypted transactions, absolute control over your crypto."
+
+
+
+Card Styling:
+
+Background: #2d2d2d with subtle border (#3a3a3a)
+Rounded corners (12px)
+Padding: 40px
+Icon at top (40x40px, teal accent color)
+Title: H3 weight, white
+Description: Body text, light gray
+Hover: Subtle lift (4px translateY) + border glow in teal
+
+
+Core Features Section:
+Layout:
+
+Full-width, dark background (#1a1a1a)
+Section title: "Core Features" (centered, H2)
+Grid layout: 3 columns × 3 rows (or 4×2 depending on space)
+
+Feature Items:
+
+✓ Fully Encrypted Wallet System - Your funds stay secure 24/7
+⚡ Instant Virtual Card Issuance - Get your card in minutes
+💵 Global USD Accounts - Spend USD anywhere Visa/Mastercard accepted
+💳 Deposit Options - Fund with USDC, TETHER
+📊 High Transaction Limits - No daily/monthly caps
+📱 Mobile Payments Enabled - Apple Pay & Google Pay
+👁️ Transaction Monitoring - View spending anytime
+🌍 Worldwide Acceptance - 150M+ locations
+
+Styling:
+
+Minimal cards with icon + title + one-line description
+Icons: Simple line icons or subtle fills (teal or white)
+Clean, scannable layout
+Consistent spacing and alignment
+
+
+Privacy-First Section:
+Layout:
+
+Full-width with gradient background (dark to darker)
+Centered content, max-width 900px
+
+Content:
+
+Large quote-style text: "Finally, a card that respects your privacy."
+Four-column check-list:
+
+✓ No ID checks
+✓ No data harvesting
+✓ No government surveillance
+✓ Used by professionals worldwide
+
+
+Supporting paragraph:
+
+"ZYPHER.CARDS empowers free financial access with total privacy. Our offshore-based infrastructure guarantees zero KYC, encrypted transactions, and absolute control over your crypto."
+
+
+
+Visual Element:
+
+Subtle badge or seal: "Offshore Infrastructure" or "256-bit Encrypted"
+Minimal, professional design
+
+
+How It Works Section:
+Layout:
+
+Light dark background (#242424)
+Section title: "How It Works" (centered, H2)
+Horizontal step flow (4 steps)
+
+Step Design:
+
+Numbered circles (1-4) connected by thin lines
+Each step has:
+
+Number badge (teal background)
+Step title (bold)
+Brief description (2-3 lines)
+Minimal icon representing action
+
+
+
+Steps:
+
+Create Your Account - No documents. Just email or phone.
+Deposit Crypto - USDC, TETHER, or Monero for anonymity
+Issue & Load Your Card - Instant virtual card in seconds
+Spend Anywhere, Anonymously - Online or in-store, freely and privately
+
+Styling:
+
+Clean, minimal, professional
+Connecting lines in subtle gray
+Step cards with hover states
+
+
+Card Options Section:
+Layout:
+
+Dark background (#1a1a1a)
+Section title: "Card Options" (H2)
+Product showcase layout
+
+Content:
+
+Large 3D card visual (matching hero cards)
+Card details panel:
+
+3D Secure Card
+Valid for up to 2 years
+Reloadable anytime
+Visa & Mastercard options
+
+
+Feature badges (Apple Pay, Google Pay logos)
+
+
+FAQ Section:
+Layout:
+
+Light dark background (#242424)
+Section title: "Frequently Asked Questions" (centered, H2)
+Accordion-style expandable items (single column, max-width 800px)
+
+Questions:
+
+Is KYC required to use ZYPHER.CARDS?
+Where can I use my card?
+What cryptocurrencies can I deposit?
+Are there spending limits?
+How long does card issuance take?
+
+Accordion Styling:
+
+Question: Bold, white text, click to expand
+Answer: Light gray text, revealed on expand
+Expand/collapse icon (chevron or plus/minus)
+Divider lines between items
+Smooth animation on expand
+
+
+Final CTA Section:
+Layout:
+
+Full-width, gradient background (teal gradient subtle)
+Centered content
+
+Content:
+
+Headline: "Ready to Take Control?"
+Supporting text: "Join thousands of users worldwide using ZYPHER.CARDS to protect their privacy and spend crypto freely."
+Primary CTA: "Start Now – No KYC, No Barriers"
+Secondary CTA: "Get Your Card" (ghost button style)
+
+Button Design:
+
+Primary: Solid teal (#5dade2), white text, 16px padding
+Secondary: Transparent with teal border
+Both with hover animations
+
+
+Footer:
+Layout:
+
+Dark background (#1a1a1a)
+Multi-column layout
+
+Content:
+
+ZYPHER logo (left)
+Links columns:
+
+Product (Features, Pricing, How It Works)
+Company (About, Privacy, Terms)
+Support (FAQ, Contact, Docs)
+
+
+Social icons (if applicable)
+Copyright: "© 2025 ZYPHER.CARDS. All rights reserved."
+Trust badges: Visa, Mastercard, Apple Pay, Google Pay logos (grayscale)
+
+
+UI Components & Interactions:
+Buttons:
+
+Primary: Solid teal (#5dade2), rounded corners (8px), subtle shadow
+Secondary: Transparent with border, same radius
+Hover: Slight scale (1.02-1.05), brightness increase
+Active/pressed: Scale down slightly
+
+Cards:
+
+Background: #2d2d2d
+Border: 1px solid #3a3a3a
+Border radius: 12px
+Box shadow: Subtle, elevated feel
+Hover: Lift animation (translateY -4px), border glow
+
+Animations:
+
+Smooth, professional (300-400ms transitions)
+Subtle parallax on scroll for hero cards
+Fade-in animations for sections as they enter viewport
+NO aggressive animations, spinning, or distracting effects
+
+Spacing:
+
+Generous padding and margins
+Consistent 8px grid system
+Section spacing: 80-120px vertical
+
+
+Responsive Design:
+Desktop (1200px+):
+
+Multi-column layouts as described
+Full-width hero with two columns
+
+Tablet (768-1199px):
+
+Two-column layouts become single column where needed
+Maintain card layouts in 2-column grids
+Adjust font sizes proportionally
+
+Mobile (< 768px):
+
+All single-column layouts
+Stack hero content + visual vertically
+Reduce font sizes appropriately
+Maintain touch-friendly button sizes (44px min height)
+Simplified navigation
+
+
+Trust & Credibility Elements:
+
+Visa and Mastercard logos (official, high-quality)
+Apple Pay and Google Pay badges
+"160+ Countries" | "150M+ Merchants" statistics
+"Offshore Infrastructure" badge
+"256-bit Encryption" security indicator
+Clean, professional design = implicit trustworthiness
+
+
+Overall Tone:
+
+Professional, not playful
+Confident, not aggressive
+Sophisticated, not cluttered
+Secure, without fear-mongering
+Modern fintech that happens to use crypto
+
+The design should feel like a legitimate financial service that respects user privacy, not a sketchy underground operation. It should inspire confidence and trust while clearly communicating the privacy benefits.
+
+Final Note: This landing page should feel like it could sit alongside Stripe, Revolut, or Wise in terms of design quality and professionalism, while clearly differentiating itself through its privacy-first messaging and no-KYC value proposition.
